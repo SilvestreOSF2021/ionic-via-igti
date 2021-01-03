@@ -1,9 +1,11 @@
 # IONIC via IGTI
 
-## [Dez motivos para desenvolver apps com IONIC](https://www.igti.com.br/blog/10-motivos-desenvolver-apps-com-ionic/) _via IGTI_
+## [Dez motivos para desenvolver apps com IONIC](https://www.igti.com.br/blog/10-motivos-desenvolver-apps-com-ionic/) _via IGTI_ 
+
+![IONIC 10 motivos](https://user-images.githubusercontent.com/76437195/103486004-fe4e1b00-4dd0-11eb-802f-0b3a41c7cf55.jpg)
 
 #### 1. Multiplataforma: 
-Considerando a arquitetura, o I0NIC atualmente se situa sobre o Cordova (antigamente conhecido como Phonegap), que se comunica com os dispositivos móveis através de plugins. Além disso, o Cordova injeta o código HTML/CSS/JavaScript na WebView do dispositivo. Com isso, é possível desenvolver apps tanto para Android quanto iOS mantendo apenas uma base de código. Além disso, o Ionic e o Cordova também dão suporte a outras plataformas como PWA’s (que será  visto posteriormente) e aplicações desktop com o Electron.
+Considerando a arquitetura, o [I0NIC](https://ionicframework.com/) atualmente se situa sobre o [Cordova antigamente conhecido como Phonegap](https://cordova.apache.org/)) que se comunica com os dispositivos móveis através de plugins. Além disso, o Cordova injeta o código HTML/CSS/JavaScript na WebView do dispositivo. Com isso, é possível desenvolver apps tanto para Android quanto iOS mantendo apenas uma base de código. Além disso, o Ionic e o Cordova também dão suporte a outras plataformas como PWA’s (que será  visto posteriormente) [e aplicações desktop com o Electron.](https://www.electronjs.org/)
 
 #### 2. Mais produtividade: 
 A característica de multiplataforma mencionada anteriormente acarreta naturalmente em mais produtividade aos desenvolvedores, pois com apenas uma base de código fica mais fácil manter e evoluir o app conforme a necessidade dos clientes. Outro fator de produtividade é a possibilidade de utilizar desenvolvedores front end na criação do app, pois as tecnologias são facilmente compreendidas por eles. Assim, a curva de aprendizado pode ser considerada menor, pois não há necessidade de se estudar uma nova tecnologia.
